@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b296e9-a3bd-4375-ba0f-e3561ded999f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/u-react/src/action/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/u-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/u-react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/u-react/src/action/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/u-react/src/action/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,7 @@
       <updated>1572569775323</updated>
       <workItem from="1572569776906" duration="1103000" />
       <workItem from="1573269363790" duration="36000" />
-      <workItem from="1574402530712" duration="1945000" />
+      <workItem from="1574402530712" duration="2053000" />
     </task>
     <servers />
   </component>
