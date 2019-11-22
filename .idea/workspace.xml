@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b296e9-a3bd-4375-ba0f-e3561ded999f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/u-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/u-react/src/App.js" afterDir="false" />
     </list>
@@ -69,6 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1572569775323</updated>
       <workItem from="1572569776906" duration="1103000" />
+      <workItem from="1573269363790" duration="36000" />
+      <workItem from="1574402530712" duration="140000" />
     </task>
     <servers />
   </component>
@@ -80,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
